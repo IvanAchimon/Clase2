@@ -1,2 +1,2 @@
-﻿Prueba git, modificando archivo.
+Prueba git, modificando archivo. Antes de hacer pull.
 
